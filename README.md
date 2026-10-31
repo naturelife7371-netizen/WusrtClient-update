@@ -5,3 +5,5 @@ For security and transparency, I have made it open-source, so you are free to mo
 **Minecraft Version: 1.21.11**
 
 **Main Repo: https://github.com/wurst-imperium/wurst7?tab=GPL-3.0-1-ov-file**
+
+NOT:A new version will not be released; if one were to come, it might change significantly—that depends on the community.
